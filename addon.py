@@ -1,6 +1,6 @@
 import xbmc,xbmcgui,xbmcaddon
 
-SKINS = [["Blue", "Blue"]]
+SKINS = [["Blue", "Blue"],["Blue (Left Align Channels)", "BlueLeft"]]
 
 
 d = xbmcgui.Dialog()
